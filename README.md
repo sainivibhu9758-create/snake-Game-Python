@@ -66,7 +66,7 @@ snake-game_python/
 ## 🏠 Home Screen
 
 <p align="center">
-  <img src="screenshots/home.png" alt="Home Screen" width="750">
+  <img src="Homescreen.png" alt="Home Screen" width="750">
 </p>
 
 ---
@@ -74,7 +74,7 @@ snake-game_python/
 ## 🎮 Gameplay
 
 <p align="center">
-  <img src="screenshots/gameplay.png" alt="Gameplay" width="750">
+  <img src="Gameplay.png" alt="Gameplay" width="750">
 </p>
 
 ---
